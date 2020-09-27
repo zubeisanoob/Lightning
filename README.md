@@ -1,5 +1,6 @@
 # Lightning Project for CPJava Class
-Lightning Project for CPJava
+Lightning Project Details
+=========================
 
 One way to simulate [lightning is with a random walk](https://docs.google.com/presentation/d/1xGizmPZMgQUjcCF3VoNeVKW0jcfCEb9NSDSkfl5RB9k/edit#slide=id.g40fbbe7893_13_9). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the canvas to the other every time the mouse is pressed. We will create many variations of this assignment to shoot the lightning in multiple directions, it may not even be lightning, it could be a Light Sabre! We might get lightning to strike building with pointy roofs - the permutations are endless!
 
