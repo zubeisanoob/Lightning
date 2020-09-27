@@ -28,3 +28,11 @@ One way to simulate [lightning is with a random walk](https://docs.google.com/pr
 1. You will also need to modify ````index.html```` to customize your website with it's own title, headline and footer. 
 1. When you are happy with your program, push your finished project up to GitHub
 1. The final step is to submit the URL for your website to google classroom. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+
+## Student Submissions of Lightning Project
+
+[Baseline Lightning Project Sample](https://chandrunarayan.github.io/sketches/Lightning/)
+
+* ![alt text][lightning]
+
+[lightning]: lightning.png
